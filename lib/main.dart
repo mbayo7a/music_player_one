@@ -196,7 +196,7 @@ class PlaylistSection extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 25,
                   fontWeight: FontWeight.w500,
-                  color: Colors.black, 
+                  color: Colors.black,
                 ),
               ),
               Text(
